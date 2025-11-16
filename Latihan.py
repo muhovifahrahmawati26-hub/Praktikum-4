@@ -37,4 +37,6 @@ print("List B setelah ditambah 3 nilai:", B)
 
 # Gabungkan list B dengan list A
 C = B + A
+
+### 🎯 Hasil Akhir
 print("Hasil gabungan B dan A:", C)
